@@ -1,0 +1,9 @@
+d:\work\cs\Example12\bin\Debug\Example12.exe.config
+d:\work\cs\Example12\bin\Debug\Example12.exe
+d:\work\cs\Example12\bin\Debug\Example12.pdb
+d:\work\cs\Example12\obj\Debug\Example12.csprojResolveAssemblyReference.cache
+d:\work\cs\Example12\obj\Debug\Example12.Form1.resources
+d:\work\cs\Example12\obj\Debug\Example12.Properties.Resources.resources
+d:\work\cs\Example12\obj\Debug\Example12.csproj.GenerateResource.Cache
+d:\work\cs\Example12\obj\Debug\Example12.exe
+d:\work\cs\Example12\obj\Debug\Example12.pdb
